@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "question": "Which country has the most natural lakes?",
+    "options": ["Russia", "Canada", "Finland", "United States"],
+    "answerIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "question": "What gas do plants primarily absorb from the atmosphere for photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "answerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "question": "In which year did the Berlin Wall fall?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "answerIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "category": "Movies",
+    "question": "Who directed the 1994 film 'Pulp Fiction'?",
+    "options": ["Martin Scorsese", "Quentin Tarantino", "David Fincher", "Ridley Scott"],
+    "answerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "category": "Science",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Quartz", "Titanium", "Diamond", "Graphene"],
+    "answerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "category": "Sports",
+    "question": "How many players are on a standard volleyball team on the court at once?",
+    "options": ["5", "6", "7", "8"],
+    "answerIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "question": "Which river is the longest in the world?",
+    "options": ["Amazon River", "Yangtze River", "Nile River", "Mississippi River"],
+    "answerIndex": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 8,
+    "category": "Technology",
+    "question": "What does 'HTTP' stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Terminal Process",
+      "Hyperlink Text Transport Program"
+    ],
+    "answerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "category": "Art",
+    "question": "Who painted 'The Starry Night'?",
+    "options": ["Claude Monet", "Pablo Picasso", "Vincent van Gogh", "Edvard Munch"],
+    "answerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "category": "Music",
+    "question": "Which instrument has 88 keys in its standard form?",
+    "options": ["Organ", "Piano", "Accordion", "Harpsichord"],
+    "answerIndex": 1,
+    "difficulty": "easy"
+  }
+]
